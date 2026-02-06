@@ -1,0 +1,74 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: zEzW7hGxszAQ/QT1WWrfkoEhJeA=
+
+Name: lib/arm64-v8a/libMegActionFmpJni.so
+SHA1-Digest: H7Mvp4DK+oJ+Xl5t/Bj0vG28b7Q=
+
+Name: lib/arm64-v8a/libRongIMLib.so
+SHA1-Digest: MVeBmEX/NPS8laU332Ipap8La9w=
+
+Name: lib/arm64-v8a/libYTCommonLiveness.so
+SHA1-Digest: gw7Q70YTezm0MhKiErv+MK9NtaQ=
+
+Name: lib/arm64-v8a/libYTLiveness.so
+SHA1-Digest: vSGqVy2/JLtmYYD/VPtZdj2O7LA=
+
+Name: lib/arm64-v8a/libZegoExpressEngine.so
+SHA1-Digest: fd9aCKV1s6F02+JDIP3vh64waDo=
+
+Name: lib/arm64-v8a/libc++_shared.so
+SHA1-Digest: 0rDnU4s3VZn+2JfO2nStB4wVcM8=
+
+Name: lib/arm64-v8a/libffavc.so
+SHA1-Digest: uMgg8/NZodQrimgmkDNK+A0JggQ=
+
+Name: lib/arm64-v8a/libglide-webp.so
+SHA1-Digest: ciTfPe3EZIEUMWeKoQoR32G+I2A=
+
+Name: lib/arm64-v8a/libijkffmpeg.so
+SHA1-Digest: MtmCLQ1KKoTwc3tDn1PnfWkK7zk=
+
+Name: lib/arm64-v8a/libijkplayer.so
+SHA1-Digest: gOYCfsniwLvUQiLk7d/8278zbKw=
+
+Name: lib/arm64-v8a/libijksdl.so
+SHA1-Digest: Z01aaikb/TYWiG2CUVzv810Kyf0=
+
+Name: lib/arm64-v8a/libliteavsdk.so
+SHA1-Digest: /4OSUasvGxSewLoPUwReDUO4u/0=
+
+Name: lib/arm64-v8a/libmegface.so
+SHA1-Digest: uG0ULmfxmK1zF6jud1Vfq0BUqT4=
+
+Name: lib/arm64-v8a/libmmkv.so
+SHA1-Digest: si6hbQyYEcPT+lDIf4SsTiyE1kk=
+
+Name: lib/arm64-v8a/libmp3lame.so
+SHA1-Digest: oVMBDom4NirIyIqc5CZPgngvoY4=
+
+Name: lib/arm64-v8a/libpag.so
+SHA1-Digest: rT1nV4qefUvxCB6ArMvv3tSuuv4=
+
+Name: lib/arm64-v8a/libsls_producer.so
+SHA1-Digest: ypRy4H1xcivcScYOl3YdRDdUNJU=
+
+Name: lib/arm64-v8a/libst_mobile.so
+SHA1-Digest: O0kkCsgPn1TyqWOLNwapOTKnhYc=
+
+Name: lib/arm64-v8a/libstmobile_jni.so
+SHA1-Digest: UgI9BAS0F1zfK7SKB9SWpjDJOMY=
+
+Name: lib/arm64-v8a/libturingmfa_oversea.so
+SHA1-Digest: suugHXkiPQ6eo6/INgmVDaXYyb0=
+
+Name: lib/arm64-v8a/libtxffmpeg.so
+SHA1-Digest: fQkbV7fbal37srQOMPeXgiZbdqA=
+
+Name: lib/arm64-v8a/libtxsoundtouch.so
+SHA1-Digest: X8inoQUKgMebFbZIv7iVNhwlX0s=
+
+Name: stamp-cert-sha256
+SHA1-Digest: 5vTkm69vqAbusD/fho7oWwc7j+I=
+

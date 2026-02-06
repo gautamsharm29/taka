@@ -1,0 +1,27 @@
+[
+  {
+    "selected": false,
+    "name": "水润",
+    "iconUrl": "file:///android_asset/mock/try_on_lip_zhidi/shuirun.png"
+  },
+  {
+    "selected": false,
+    "name": "金属",
+    "iconUrl": "file:///android_asset/mock/try_on_lip_zhidi/jinshu.png"
+  },
+  {
+    "selected": false,
+    "name": "闪烁",
+    "iconUrl": "file:///android_asset/mock/try_on_lip_zhidi/shanshuo.png"
+  },
+  {
+    "selected": false,
+    "name": "雾化",
+    "iconUrl": "file:///android_asset/mock/try_on_lip_zhidi/wuhua.png"
+  },
+  {
+    "selected": false,
+    "name": "自然",
+    "iconUrl": "file:///android_asset/mock/try_on_lip_zhidi/ziran.png"
+  }
+]

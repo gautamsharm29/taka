@@ -1,0 +1,77 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: a9GiYpYXxJ5thFf/JCK4781b3gQ=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA1-Digest: /5bqf7yddyvCV9tPCGJ2bVTrsp8=
+
+Name: lib/arm64-v8a/libMegActionFmpJni.so
+SHA1-Digest: abR6PLx2aoWLZzpJwx2OHZ2Qckc=
+
+Name: lib/arm64-v8a/libRongIMLib.so
+SHA1-Digest: PKTEZJ5r7NSYKgsa0Uf4jDsU4Es=
+
+Name: lib/arm64-v8a/libYTCommonLiveness.so
+SHA1-Digest: xluTl1bntnxdPQ7CJw/Wl4orRZ0=
+
+Name: lib/arm64-v8a/libYTLiveness.so
+SHA1-Digest: bruUtv2FK0OG9y4TwznCxs7rVtY=
+
+Name: lib/arm64-v8a/libZegoExpressEngine.so
+SHA1-Digest: Rs5dwRXRq8fow6aKGRLEo6zwoHI=
+
+Name: lib/arm64-v8a/libc++_shared.so
+SHA1-Digest: PyEFfOFZEVdq0gOTv4/amv31Xys=
+
+Name: lib/arm64-v8a/libffavc.so
+SHA1-Digest: GUO0eIn6zpqYWJa9fZmg1jgAlSs=
+
+Name: lib/arm64-v8a/libglide-webp.so
+SHA1-Digest: n95AmGY4IfRUVeCEYt2cJWa40lc=
+
+Name: lib/arm64-v8a/libijkffmpeg.so
+SHA1-Digest: Nzt3ucj7pI+6U9LdzCHK+3XnSQo=
+
+Name: lib/arm64-v8a/libijkplayer.so
+SHA1-Digest: PlcPfcSJLLmegbh6ZvQphIvNR18=
+
+Name: lib/arm64-v8a/libijksdl.so
+SHA1-Digest: NZJqa7ugYLWtUXhLI5o4HBR8XgI=
+
+Name: lib/arm64-v8a/libliteavsdk.so
+SHA1-Digest: vhJEGorQEcv89UZ3C/9UWSgnRFE=
+
+Name: lib/arm64-v8a/libmegface.so
+SHA1-Digest: TVs6kVBWkLBNPraItbcM9Q4J8AE=
+
+Name: lib/arm64-v8a/libmmkv.so
+SHA1-Digest: dE6Dm2SwZiB8y0kpGXbUb1gSAK4=
+
+Name: lib/arm64-v8a/libmp3lame.so
+SHA1-Digest: fbcpF5HY20MXHnyizPMCEdkBjqc=
+
+Name: lib/arm64-v8a/libpag.so
+SHA1-Digest: +maLSsn279pbD+q76i9Yg0fH3+k=
+
+Name: lib/arm64-v8a/libsls_producer.so
+SHA1-Digest: VgP91kv/CiwvO0T9Jqma5stkN6E=
+
+Name: lib/arm64-v8a/libst_mobile.so
+SHA1-Digest: 6g1CY9Xx6f14rHSP9dPi1OFd+wM=
+
+Name: lib/arm64-v8a/libstmobile_jni.so
+SHA1-Digest: xSBjEDne5b4p4+hQKP2TyC1Rw4c=
+
+Name: lib/arm64-v8a/libturingmfa_oversea.so
+SHA1-Digest: LSsm7qQDf34C78TMTHK7Zo/Vlig=
+
+Name: lib/arm64-v8a/libtxffmpeg.so
+SHA1-Digest: XchI0LoZCsHR5E/HOOTQpFUru+0=
+
+Name: lib/arm64-v8a/libtxsoundtouch.so
+SHA1-Digest: HrvgNLCkeuCMcCqaYbONxgVBLZ4=
+
+Name: stamp-cert-sha256
+SHA1-Digest: Bs40BvDZ1xrbgQrPTD2x5w/NfHQ=
+

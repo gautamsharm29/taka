@@ -1,0 +1,20 @@
+[
+  {
+    "country": "India",
+    "countryCode": "+91",
+    "countryImg": "http://video.lwchatapp.com/lwchat/national_flag/small_v2/India.png",
+    "countryIso": "IN"
+  },
+  {
+    "country": "Pakistan",
+    "countryCode": "+92",
+    "countryImg": "http://video.lwchatapp.com/lwchat/national_flag/small_v2/Pakistan.png",
+    "countryIso": "PK"
+  },
+  {
+    "country": "Bangladesh",
+    "countryCode": "+880",
+    "countryImg": "http://video.lwchatapp.com/lwchat/national_flag/small_v2/Bangladesh.png",
+    "countryIso": "BD"
+  }
+]

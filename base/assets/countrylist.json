@@ -1,0 +1,128 @@
+[
+  {
+    "country": "Bahrain",
+    "countryCode": "+973",
+    "countryImg": "http://video.lwchatapp.com/lwchat/national_flag/small_v2/Bahrain.png",
+    "countryIso": "BH"
+  },
+  {
+    "country": "Kuwait",
+    "countryCode": "+965",
+    "countryImg": "http://video.lwchatapp.com/lwchat/national_flag/small_v2/Kuwait.png",
+    "countryIso": "KW"
+  },
+  {
+    "country": "Oman",
+    "countryCode": "+968",
+    "countryImg": "http://video.lwchatapp.com/lwchat/national_flag/small_v2/Oman.png",
+    "countryIso": "OM"
+  },
+  {
+    "country": "Qatar",
+    "countryCode": "+974",
+    "countryImg": "http://video.lwchatapp.com/lwchat/national_flag/small_v2/Qatar.png",
+    "countryIso": "QA"
+  },
+  {
+    "country": "KSA",
+    "countryCode": "+966",
+    "countryImg": "http://video.lwchatapp.com/lwchat/national_flag/small_v2/Arabia.png",
+    "countryIso": "SA"
+  },
+  {
+    "country": "UAE",
+    "countryCode": "+971",
+    "countryImg": "http://video.lwchatapp.com/lwchat/national_flag/small_v2/United_Arab_Emirates.png",
+    "countryIso": "AE"
+  },
+  {
+    "country": "Iraq",
+    "countryCode": "+964",
+    "countryImg": "http://video.lwchatapp.com/lwchat/national_flag/small_v2/Iraq.png",
+    "countryIso": "IQ"
+  },
+  {
+    "country": "Jordan",
+    "countryCode": "+962",
+    "countryImg": "http://video.lwchatapp.com/lwchat/national_flag/small_v2/Jordan.png",
+    "countryIso": "JO"
+  },
+  {
+    "country": "Syria",
+    "countryCode": "+963",
+    "countryImg": "http://video.lwchatapp.com/lwchat/national_flag/small_v2/Syria.png",
+    "countryIso": "SY"
+  },
+  {
+    "country": "Lebanon",
+    "countryCode": "+961",
+    "countryImg": "http://video.lwchatapp.com/lwchat/national_flag/small_v2/Lebanon.png",
+    "countryIso": "LB"
+  },
+  {
+    "country": "Egypt",
+    "countryCode": "+20",
+    "countryImg": "http://video.lwchatapp.com/lwchat/national_flag/small_v2/Egypt.png",
+    "countryIso": "EG"
+  },
+  {
+    "country": "Tunisia",
+    "countryCode": "+216",
+    "countryImg": "http://video.lwchatapp.com/lwchat/national_flag/small_v2/Tunisia.png",
+    "countryIso": "TN"
+  },
+  {
+    "country": "Algeria",
+    "countryCode": "+213",
+    "countryImg": "http://video.lwchatapp.com/lwchat/national_flag/small_v2/Algeria.png",
+    "countryIso": "DZ"
+  },
+  {
+    "country": "Morocco",
+    "countryCode": "+212",
+    "countryImg": "http://video.lwchatapp.com/lwchat/national_flag/small_v2/Morocco.png",
+    "countryIso": "MA"
+  },
+  {
+    "country": "Libya",
+    "countryCode": "+218",
+    "countryImg": "http://video.lwchatapp.com/lwchat/national_flag/small_v2/Libya.png",
+    "countryIso": "LF"
+  },
+  {
+    "country": "Yemen",
+    "countryCode": "+967",
+    "countryImg": "http://video.lwchatapp.com/lwchat/national_flag/small_v2/Yemen.png",
+    "countryIso": "YE"
+  },
+  {
+    "country": "Pakistan",
+    "countryCode": "+92",
+    "countryImg": "http://video.lwchatapp.com/lwchat/national_flag/small_v2/Pakistan.png",
+    "countryIso": "PK"
+  },
+  {
+    "country": "Pakistan",
+    "countryCode": "+970",
+    "countryImg": "http://video.lwchatapp.com/lwchat/national_flag/small_v2/Pakistan.png",
+    "countryIso": "PS"
+  },
+  {
+    "country": "India",
+    "countryCode": "+91",
+    "countryImg": "http://video.lwchatapp.com/lwchat/national_flag/small_v2/India.png",
+    "countryIso": "IN"
+  },
+  {
+    "country": "Turkiye",
+    "countryCode": "+90",
+    "countryImg": "http://video.lwchatapp.com/lwchat/national_flag/small_v2/Turkey.png",
+    "countryIso": "LAS"
+  },
+  {
+    "country": "Bangladesh",
+    "countryCode": "+880",
+    "countryImg": "http://video.lwchatapp.com/lwchat/national_flag/small_v2/Bangladesh.png",
+    "countryIso": "BD"
+  }
+]
